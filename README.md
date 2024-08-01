@@ -45,7 +45,9 @@ API statis adalah API yang _endpoint_-nya terdiri dari file statis.
 ```
 GET https://emsifa.github.io/api-wilayah-indonesia/api/provinces.json
 ```
-
+```
+https://hardyness.github.io/api-wilayah-indonesia/api/provinces.json
+```
 Contoh Response:
 
 ```
